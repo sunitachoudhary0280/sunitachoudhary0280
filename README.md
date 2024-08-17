@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm sunita choudhary</h1>
 <h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Science and Engineering</h3>
 
-<p align="left"> <a href="https://twitter.com/sunitaa2003" target="blank"><img src="https://img.shields.io/twitter/follow/sunitaa2003?logo=twitter&style=for-the-badge" alt="sunitaa2003" /></a> </p>
+ </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitachoudhary0280&label=Profile%20views&color=
+<p align="left"> <a href="https://twitter.com/sunitaa2003" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="sunitaa2003" /></a> </p>
+
 
 - 🌱 I’m currently learning **DSA , Python & AI**
 
