@@ -1,8 +1,10 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm sunita choudhary</h1>
 <h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Science and Engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
- </p>
+
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitachoudhary0280&label=Profile%20views&color=
 <p align="left"> <a href="https://twitter.com/sunitaa2003" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="sunitaa2003" /></a> </p>
 
