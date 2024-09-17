@@ -1,7 +1,7 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
  
  <h1 align="center">Hi 👋, I'm sunita choudhary</h1>
-<h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Science and Engineering</h3>
+<h3 align="center">Embarking on a AI Journey: Learning and Growing Every Day..! | Bachelor's in Computer Science and Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
